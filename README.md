@@ -21,12 +21,12 @@ Currently exploring high-performance backend systems and AI applications in **TÃ
 
 ### ðŸ“Š GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbinterDon&show_icons=true&theme=radical&rank_icon=github&hide_title=true&count_private=true" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinterDon&layout=compact&theme=radical&hide=php,java,html,css,javascript,astro&count_private=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbinterDon&show_icons=true&theme=default&rank_icon=github&hide_title=true&count_private=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinterDon&layout=compact&theme=default&hide=php,java,html,css,javascript,astro,typescript,hack,mdx&count_private=true" height="185" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinterDon&theme=radical&hide_border=true&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinterDon&theme=default&hide_border=true&count_private=true" alt="GitHub Streak" />
 </p>
 
 ---
