@@ -18,9 +18,3 @@ Focusing on Cloud Native architecture and high-performance distributed systems.
 - **Architecture:** Microservices, gRPC, Event-Driven Design, RESTful APIs
 - **Infrastructure:** Kubernetes, Docker, Jenkins, CI/CD, Linux
 - **Databases:** PostgreSQL, Redis, MSSQL, MySQL, AWS Timestream
-
----
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hank--Wu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hankwu15) 
-📧 [csi1212csi1212@gmail.com](mailto:csi1212csi1212@gmail.com)
